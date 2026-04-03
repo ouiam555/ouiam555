@@ -1,139 +1,193 @@
-<p align="center">
-  <a href="https://github.com/OuiamElkhalfi">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="OUIAM ELKHALFI" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%26+Data+Engineer;Passionate+about+turning+data+into+insights;ETL+Pipelines+%7C+Dashboards+%7C+ML;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<!-- Animated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=OUIAM%20ELKHALFI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Engineer&descAlignY=55&descAlign=50&descSize=20"/>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ouiam-elkhalfi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-</p>
+<!-- Typing SVG -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Transforming+Raw+Data+into+Insights+%F0%9F%93%8A;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;ETL+%7C+ELT+%7C+Data+Warehouse+%7C+ML;SQL+%7C+Python+%7C+Spark+%7C+Airflow;Always+exploring+the+data+universe+%E2%9C%A8&font=Fira+Code&center=true&width=520&height=50&color=a78bfa&vCenter=true&pause=1000&size=19" />
+</a>
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/ouiam-elkhalfi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ouiam.elkhalfi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/OuiamElkhalfi">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile views & followers -->
+<img src="https://komarev.com/ghpvc/?username=OuiamElkhalfi&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/OuiamElkhalfi?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/OuiamElkhalfi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/OuiamElkhalfi?tab=repositories&sort=stargazers">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/OuiamElkhalfi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+
+</div>
+
+---
+
+## 🌌 About Me
+
+```python
+class OuiamElkhalfi:
+    def __init__(self):
+        self.name       = "Ouiam Elkhalfi"
+        self.role       = ["Data Analyst 📊", "Data Engineer ⚙️"]
+        self.location   = "Morocco 🇲🇦"
+        self.languages  = ["Python", "SQL", "R", "Bash"]
+        self.passion    = "Turning messy data into clear, actionable insights"
+        self.currently  = "Building robust ETL pipelines & interactive dashboards"
+        self.learning   = ["dbt", "Apache Iceberg", "LLMs for Data"]
+        self.fun_fact   = "I debug pipelines faster than I drink coffee ☕"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something data-driven 🚀")
+
+me = OuiamElkhalfi()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📊 Data Analysis & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### ⚙️ Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OuiamElkhalfi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuiamElkhalfi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide=Jupyter%20Notebook"/>
+</a>
 
 <br/>
 
-<!-- Social badges section -->
-<p align="center">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuiamElkhalfi&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+</a>
+
+</div>
+
+---
+
+## 🌠 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/OuiamElkhalfi">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OuiamElkhalfi&repo=data-pipeline-project&theme=tokyonight&bg_color=0D1117&title_color=a78bfa&hide_border=true&icon_color=a78bfa"/>
+</a>
+<a href="https://github.com/OuiamElkhalfi">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OuiamElkhalfi&repo=analytics-dashboard&theme=tokyonight&bg_color=0D1117&title_color=a78bfa&hide_border=true&icon_color=a78bfa"/>
+</a>
+<a href="https://github.com/OuiamElkhalfi">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OuiamElkhalfi&repo=etl-with-airflow&theme=tokyonight&bg_color=0D1117&title_color=a78bfa&hide_border=true&icon_color=a78bfa"/>
+</a>
+<a href="https://github.com/OuiamElkhalfi">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OuiamElkhalfi&repo=ml-predictions&theme=tokyonight&bg_color=0D1117&title_color=a78bfa&hide_border=true&icon_color=a78bfa"/>
+</a>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/OuiamElkhalfi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OuiamElkhalfi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/OuiamElkhalfi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OuiamElkhalfi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+    <img src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-0D1117?style=for-the-badge&logoColor=a78bfa&logo=repo"/>
+  </a>
+</div>
 
-<br/>
+---
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+## 🐍 Contribution Snake
 
-  <p align="left">
-    <a href="https://github.com/OuiamElkhalfi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OuiamElkhalfi&repo=data-analysis-projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="data-analysis-projects"></a>
-    <a href="https://github.com/OuiamElkhalfi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OuiamElkhalfi&repo=data-engineering-pipelines&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="data-engineering-pipelines"></a>
-  </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OuiamElkhalfi/OuiamElkhalfi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-  <a href="https://github.com/OuiamElkhalfi?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+> To enable the snake animation, add a GitHub Action in `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for setup.
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+---
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+## 🏆 GitHub Trophies
 
-  <p>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AOuiamElkhalfi+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OuiamElkhalfi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
 
-  <h3>🧰 Frameworks, Libraries & Data Tools</h3>
+---
 
-  <p>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white"></a>
-      <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apachekafka&logoColor=white"></a>
-      <a href="#"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=apacheairflow&logoColor=white"></a>
-      <a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B.svg?logo=dbt&logoColor=white"></a>
-      <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
-      <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
-      <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
-  </p>
+## 📊 Activity Graph
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OuiamElkhalfi&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" />
+</div>
 
-  <p>
-      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
-      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
-      <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?logo=microsoftazure&logoColor=white"></a>
-      <a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white"></a>
-      <a href="#"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=googlebigquery&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-  </p>
+---
 
-  <h3>💻 Software and Tools</h3>
+<div align="center">
 
-  <p>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="DBeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
-  </p>
-</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+**✨ "Without data, you're just another person with an opinion." — W. Edwards Deming**
 
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OuiamElkhalfi's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=OuiamElkhalfi&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OuiamElkhalfi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OuiamElkhalfi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OuiamElkhalfi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OuiamElkhalfi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OuiamElkhalfi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=OuiamElkhalfi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</details>
+</div>
