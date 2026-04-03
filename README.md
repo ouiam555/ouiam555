@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <a href="[https://github.com/your-username](https://github.com/ouiam555)">
+  <a href="https://github.com/your-username">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/your-username?tab=followers">
